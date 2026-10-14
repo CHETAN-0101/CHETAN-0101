@@ -1,4 +1,3 @@
-## Hi there 👋
 <!--
 GitHub Profile README
 Suggested repository name: CHETAN-0101
